@@ -114,7 +114,7 @@ export const WORDS = [
   'òdodo',
   'òdòdó',
   'ògèdè',
-  'ogóje'
+  'ogóje',
   'ogójì',
   'ológbò',
   'olórí',

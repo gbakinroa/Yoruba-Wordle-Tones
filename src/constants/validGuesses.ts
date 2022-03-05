@@ -124,7 +124,7 @@ export const VALIDGUESSES = [
   'òdodo',
   'òdòdó',
   'ògèdè',
-  'ogóje'
+  'ogóje',
   'ogójì',
   'ológbò',
   'olórí',
