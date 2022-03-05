@@ -18,7 +18,7 @@ export const ORTHOGRAPHY = [
   'h',
   'ì',
   'i',
-  'í'
+  'í',
   'j',
   'k',
   'l',
