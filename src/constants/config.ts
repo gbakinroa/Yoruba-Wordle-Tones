@@ -1,9 +1,9 @@
 export const CONFIG = {
-  tries: 8, // This changes how many tries you get to finish the wordle
+  tries: 10, // This changes how many tries you get to finish the wordle
   language: 'Yorùbá', // This changes the display name for your language
   wordLength: 5, // This sets how long each word is based on how many characters (as defined in orthography.ts) are in each word
-  author: 'Adébáyọ̀ Gbákinró', // Put your name here so people know who made this Wordle!
-  authorWebsite: 'https://www.linkedin.com/in/adebayogbakinro/', // Put a link to your website or social media here
+  author: 'Báyọ̀', // Put your name here so people know who made this Wordle!
+  authorWebsite: 'google.com', // Put a link to your website or social media here
   wordListSource: 'Jẹ́ K\'Á Sọ Yorùbá', // Describe the source material for your words here
   wordListSourceLink: 'https://yalebooks.yale.edu/book/9780300055900/je-ka-so-yoruba', // Put a link to the source material for your words here
   //
