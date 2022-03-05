@@ -6,7 +6,6 @@ export const WORDS = [
   'ỌGỌ́TA',
   'PẸ́Ẹ̀NÌ',
   'OGÓJE',
-  'GANAN',
   'ỌMỌDÉ',
   'AJÍLẸ̀',
   'ÀDÚRÀ',
