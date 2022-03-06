@@ -235,7 +235,7 @@ export const VALIDGUESSES = [
   'OLÓWÓ',
   'OLÙFẸ́',
   'OLÙKỌ́',
-  'OLUWA',
+  'OLÚWA',
   'ÒMÙGỌ̀',
   'ONÍJÓ',
   'ONÍLÉ',

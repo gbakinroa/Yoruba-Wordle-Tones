@@ -310,7 +310,7 @@ export const WORDS = [
   'OLÓGBÒ',
   'ÀKỌLÉ',
   'ÀGBÀDO',
-  'OLUWA',
+  'OLÚWA',
 ]
 
 if (CONFIG.normalization) {
