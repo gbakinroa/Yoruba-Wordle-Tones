@@ -6,7 +6,7 @@
     "wordNotFound": "Word not found",
     "solution": "The word was {{solution}}",
     "gameCopied": "Game copied to clipboard",
-    "howToPlay": "How to play",
+    "howToPlay": "Bí a ti ń ṣe é",
     "instructions": "Guess the word in {{tries}} tries. After each guess, the color of the tiles will change to show how close your guess was to the word.",
     "pickYourLanguage": "Choose a language",
     "correctSpotInstructions": "The letter W is in the word and in the correct spot.",
