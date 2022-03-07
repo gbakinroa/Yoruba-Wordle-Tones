@@ -47,7 +47,7 @@ export const VALIDGUESSES = [
   'ÀFỌ̀MỌ́',
   'AFỌ́JÚ',
   'AGARA',
-  'AGẸMỌ'
+  'AGẸMỌ',
   'AGÍDÍ',
   'AGOGO',
   'AGOLO',
@@ -177,7 +177,7 @@ export const VALIDGUESSES = [
   'ÀWÙJỌ',
   'ÀWÚRE',
   'AWÙSÁ',
-  'AWÚSÁ'
+  'AWÚSÁ',
   'AYABA',
   'ÀYẸ́SÍ',
   'ÀYẸ̀WÒ',

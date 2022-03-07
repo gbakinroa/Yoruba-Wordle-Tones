@@ -86,7 +86,7 @@ export const WORDS = [
   'ÀBÙKÙ',
   'ÒSÙKÁ',
   'YARUN',
-  'AGẸMỌ'
+  'AGẸMỌ',
   'ÀBẸ́LÀ',
   'JẸ́JẸ̀Ẹ́',
   'ÀFÌGBÀ',
@@ -645,7 +645,7 @@ export const WORDS = [
   'ẸLẸ́JỌ́',
   'TÚÙKÚ',
   'ÀTÍKÈ',
-  'AWÚSÁ'
+  'AWÚSÁ',
   'ÒṢÌKÀ',
   'GBỌ́RÀN',
   'LÚWẸ̀Ẹ́',
