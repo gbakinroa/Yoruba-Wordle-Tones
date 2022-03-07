@@ -41,7 +41,7 @@ export const WORDS = [
   'ṢÁNLẸ̀',
   'ÌLÉRÍ',
   'LÓNÌÍ',
-  'ÌWỌSPI',
+  'ÌWỌSI',
   'ÌRÈKÉ',
   'ONÍJÓ',
   'ÈRÒJÀ',

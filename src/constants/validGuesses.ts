@@ -467,7 +467,7 @@ export const VALIDGUESSES = [
   'ÌWẸ̀FÀ',
   'ÌWÒYÍ',
   'ÌWỌ̀FÀ',
-  'ÌWỌSPI',
+  'ÌWỌSI',
   'ÌWÚRE',
   'ÌYÀGBẸ́',
   'ÌYÁLÉ',
