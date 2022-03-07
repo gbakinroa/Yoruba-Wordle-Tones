@@ -504,7 +504,6 @@ export const VALIDGUESSES = [
   'KẸSÀN',
   'KẸTAN',
   'KẸWÀÁ',
-  'KÍGBE',
   'KÌÍNÍ',
   'KÍRUN',
   'KÓŃDÓ',

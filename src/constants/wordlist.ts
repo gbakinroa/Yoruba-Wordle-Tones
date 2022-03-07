@@ -32,7 +32,6 @@ export const WORDS = [
   'ÒJÌJI',
   'PỌ́Ọ̀SÌ',
   'AGBÁRÍ',
-  'KÍGBE',
   'ÀPÉJỌ',
   'ABÚLÉ',
   'IPASẸ̀',
