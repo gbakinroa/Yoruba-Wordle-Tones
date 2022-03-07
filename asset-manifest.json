@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Yoruba-Wordle/static/css/main.9365c850.css",
-    "main.js": "/Yoruba-Wordle/static/js/main.fd53b675.js",
-    "static/js/787.9fd50364.chunk.js": "/Yoruba-Wordle/static/js/787.9fd50364.chunk.js",
-    "static/media/BCSans-Bold.woff": "/Yoruba-Wordle/static/media/BCSans-Bold.252ecf87ea37c93b293c.woff",
-    "static/media/BCSans-BoldItalic.woff": "/Yoruba-Wordle/static/media/BCSans-BoldItalic.73ed5137b2c4a42b754f.woff",
-    "static/media/BCSans-Italic.woff": "/Yoruba-Wordle/static/media/BCSans-Italic.9c3be03a06d30a6ecff0.woff",
-    "static/media/BCSans-Regular.woff": "/Yoruba-Wordle/static/media/BCSans-Regular.0079ea8e42d4e81a13d2.woff",
-    "index.html": "/Yoruba-Wordle/index.html",
-    "static/media/getFetch.cjs": "/Yoruba-Wordle/static/media/getFetch.c780682470504fffbd04.cjs",
-    "main.9365c850.css.map": "/Yoruba-Wordle/static/css/main.9365c850.css.map",
-    "main.fd53b675.js.map": "/Yoruba-Wordle/static/js/main.fd53b675.js.map",
-    "787.9fd50364.chunk.js.map": "/Yoruba-Wordle/static/js/787.9fd50364.chunk.js.map"
+    "main.css": "/Yoruba-Wordle-Tones/static/css/main.eb44a5f2.css",
+    "main.js": "/Yoruba-Wordle-Tones/static/js/main.c55407b9.js",
+    "static/js/787.9fd50364.chunk.js": "/Yoruba-Wordle-Tones/static/js/787.9fd50364.chunk.js",
+    "static/media/BCSans-Bold.woff": "/Yoruba-Wordle-Tones/static/media/BCSans-Bold.252ecf87ea37c93b293c.woff",
+    "static/media/BCSans-BoldItalic.woff": "/Yoruba-Wordle-Tones/static/media/BCSans-BoldItalic.73ed5137b2c4a42b754f.woff",
+    "static/media/BCSans-Italic.woff": "/Yoruba-Wordle-Tones/static/media/BCSans-Italic.9c3be03a06d30a6ecff0.woff",
+    "static/media/BCSans-Regular.woff": "/Yoruba-Wordle-Tones/static/media/BCSans-Regular.0079ea8e42d4e81a13d2.woff",
+    "index.html": "/Yoruba-Wordle-Tones/index.html",
+    "static/media/getFetch.cjs": "/Yoruba-Wordle-Tones/static/media/getFetch.c780682470504fffbd04.cjs",
+    "main.eb44a5f2.css.map": "/Yoruba-Wordle-Tones/static/css/main.eb44a5f2.css.map",
+    "main.c55407b9.js.map": "/Yoruba-Wordle-Tones/static/js/main.c55407b9.js.map",
+    "787.9fd50364.chunk.js.map": "/Yoruba-Wordle-Tones/static/js/787.9fd50364.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9365c850.css",
-    "static/js/main.fd53b675.js"
+    "static/css/main.eb44a5f2.css",
+    "static/js/main.c55407b9.js"
   ]
 }
