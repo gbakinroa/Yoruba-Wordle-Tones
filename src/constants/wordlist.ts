@@ -725,6 +725,7 @@ export const WORDS = [
   'LÁÌNÍ',
   'GBÁDÙN',
   'ẸLẸ́SẸ̀',
+  'ALÁWO',
 
 ]
 

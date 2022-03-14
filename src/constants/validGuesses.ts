@@ -113,6 +113,7 @@ export const VALIDGUESSES = [
   'ALÁṢẸ',
   'ALÁṢỌ',
   'ALÁTẸ',
+  'ALÁWO',
   'ÀLÀYÉ',
   'ALÁYÉ',
   'ÀLEJÒ',
