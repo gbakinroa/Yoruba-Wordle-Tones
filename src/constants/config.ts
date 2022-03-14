@@ -1,6 +1,6 @@
 export const CONFIG = {
   tries: 9, // This changes how many tries you get to finish the wordle
-  language: 'Yorùbá Wordle (beta version with tones)', // This changes the display name for your language
+  language: 'Eré-Ọ̀rọ̀ Yorùbá (ẹ̀yà bẹ́tà pẹ̀lú àmì ohùn)', // This changes the display name for your language
   wordLength: 5, // This sets how long each word is based on how many characters (as defined in orthography.ts) are in each word
   author: 'Báyọ̀', // Put your name here so people know who made this Wordle!
   authorWebsite: 'https://github.com/gbakinroa/Yoruba-Wordle-Tones', // Put a link to your website or social media here
